@@ -1,0 +1,16 @@
+{
+  "name": "group-chat-app",
+  "version": "1.0.0",
+  "description": "This is realtime group chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hrishikant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.4.0"
+  }
+}
